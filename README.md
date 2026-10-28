@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Figured is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://figured.com/
+Figured provides a complete online livestock, crop and production tracking, farm budgeting and forecasting tool that gives you accurate data in real time. The platform helps farmers and agribusinesses manage finances, plan operations, and integrate with accounting software, delivering actionable insights for better decision making.
+
+**Areas:** Finance · Agriculture · FarmManagement · SaaS · Accounting
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://figured.com/)
+- [Documentation](https://www.figured.com/en-us/resources/guides)
+- [Getting started](https://www.figured.com/en-us/quickstart)
+- [Pricing](https://www.figured.com/en-us/pricing)
+- [Sign up](https://my.figured.com/login)
+- [Support](https://help.figured.com/en/)
+- [Blog](https://www.figured.com/blog)
+- [Security](https://www.figured.com/en-us/security)
+- [Terms of service](https://www.figured.com/terms-conditions)
+- [Privacy policy](https://www.figured.com/en-us/privacy-notice)
+- [Status](https://status.figured.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/figured/](https://apis.io/providers/figured/).
